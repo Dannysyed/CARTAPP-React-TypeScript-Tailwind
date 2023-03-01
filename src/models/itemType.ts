@@ -1,5 +1,6 @@
 type itemData = {
     id: number,
-    title: string
+    title: string,
+    quantity: number
 }
 export default itemData
